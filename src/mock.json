@@ -1,0 +1,250 @@
+{
+  "navBar": [
+    {
+      "id": "123",
+      "name": "Home",
+      "link": "/"
+    },
+    {
+      "id": "123",
+      "name": "Services",
+      "link": "/Services"
+    },
+    {
+      "id": "123",
+      "name": "Updates",
+      "link": "/updates"
+    },
+
+    {
+      "id": "123",
+      "name": "Gallery",
+      "link": "/Gallery"
+    },
+    {
+      "id": "123",
+      "name": "More",
+      "link": "/More"
+    },
+    {
+      "id": "123",
+      "name": "Contact",
+      "link": "/Contact"
+    },
+    {
+      "id": "123",
+      "name": "Search",
+      "link": "/Search"
+    }
+  ],
+  "home": {
+    "title": "Meilleur Services",
+    "description": "OUR SERVICES",
+    "description1": "MAKE AN ENQUIRY",
+  },
+  "footer": {
+    "sectionTitle": "Get in Touch",
+    "items": [
+      {
+        "title": "CALL",
+        "description": "+91-9582054953"
+      },
+      {
+        "title": "EMAIL",
+        "description": "akhil@meilleurservices.in"
+      },
+      {
+        "title": "ADDRESS",
+        "description": "108/2 Ground Floor, Okhla Phase 2, Kalkaji, Opposite Kotak Mahindra Bank, New, Delhi"
+      },
+      {
+        "title": "OTHER SITE",
+        "description": "http://www.meilleurservices.in"
+      }
+    ]
+  },
+  "gallery": {
+    "cards": [
+      { "title": "title", "image": "img1.jpeg" },
+      { "title": "title", "image": "img2.jpeg" },
+      { "title": "title", "image": "image3.jpeg" },
+      { "title": "title", "image": "img4.jpeg" },
+      { "title": "title", "image": "img5.jpeg" },
+      { "title": "title", "image": "img6.jpeg" },
+      { "title": "title", "image": "img7.jpeg" },
+      { "title": "title", "image": "img8.jpeg" },
+      { "title": "title", "image": "img9.jpeg" },
+      { "title": "title", "image": "img10.jpeg" },
+      { "title": "title", "image": "img11.jpeg" },
+      { "title": "title", "image": "img12.jpeg" },
+      { "title": "title", "image": "img13.jpeg" },
+      { "title": "title", "image": "img14.jpeg" },
+      { "title": "title", "image": "img15.jpeg" },
+      { "title": "title", "image": "img16.jpeg" },
+      { "title": "title", "image": "img17.jpeg" },
+      { "title": "title", "image": "img18.jpeg" },
+      { "title": "title", "image": "img19.jpeg" },
+      { "title": "title", "image": "img20.jpeg" },
+      { "title": "title", "image": "img21.jpeg" },
+      { "title": "title", "image": "img22.jpeg" },
+      { "title": "title", "image": "img23.jpeg" },
+      { "title": "title", "image": "img24.jpeg" },
+     
+
+    ]
+  },
+  "more": {
+    "card": [
+      { "title": "title", "day": "days", "description": "desc" },
+      { "title": "title", "day": "days", "description": "desc" },
+      { "title": "title", "day": "days", "description": "desc" },
+      { "title": "title", "day": "days", "description": "desc" },
+      { "title": "title", "day": "days", "description": "desc" },
+      { "title": "title", "day": "days", "description": "desc" },
+      { "title": "title", "day": "days", "description": "desc" },
+      { "title": "title", "day": "days", "description": "desc" },
+      { "title": "title", "day": "days", "description": "desc" }
+    ]
+  },
+  "updates": {
+    "appendDayText": "days ago",
+    "card": [
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": 15
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": 30
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      },
+      {
+        "title": "title",
+        "card": "image",
+        "description": "desc",
+        "day": "days"
+      }
+    ]
+  },
+  "contact": {
+    "card": [
+      { "title": "title", "description": "desc" },
+      { "title": "title", "description": "desc" },
+      { "title": "title", "description": "desc" }
+    ],
+    "sectionTitle": [{ "title": "title", "description": "desc" }],
+    "sectionTitle1": [{ "title": "title", "description": "desc" }]
+  },
+  "services": {
+    "card": [
+      { "title": "title", "description": "desc" },
+      { "title": "title", "description": "desc" },
+      { "title": "title", "description": "desc" }
+    ]
+  }
+}

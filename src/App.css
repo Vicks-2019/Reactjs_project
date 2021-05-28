@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.App {
+  background: radial-gradient(at center center, #2d7e9270 0%, #1c40617c 100%),
+    url("./logo.webp");
+  height: 100vh;
+  background-size: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.upt {
+  display: flex;
+  flex-direction: row;
+}

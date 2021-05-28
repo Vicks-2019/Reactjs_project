@@ -1,0 +1,30 @@
+.Home{
+     max-width: 800px;
+     height: 700px;
+     display: flex;
+     justify-content: center;
+     align-items : center;
+     margin:0 auto;
+     flex-direction : column;
+
+}
+.btn-left{
+    border: white solid 1px;
+    background-color: transparent;
+    color : white;
+    padding: 10px 50px;
+    margin : 0 10px;
+    margin-top:50px;
+    border-radius: 12px;
+}
+
+.btn-right{
+    border : white solid 1px;
+    background-color: white;
+    color : rgb(26,108 , 122);
+    padding:10px 50px ;
+    margin : 0 10px;
+    border-radius: 12px;
+
+
+}
