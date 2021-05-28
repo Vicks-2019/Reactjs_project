@@ -1,32 +1,35 @@
 import React from 'react'
 import "./MediumCard.css";
 
-function MediumCard({imageUrl,title,body}) {
+const MediumCard = ({
+    hoverText,
+    moreText,
+    title,
+    image,
+}) => {
     return (
-        <div className = "card-container">
-            <div className = "image-container" >
-                <img src={"https://picsum.photos/200/300"} alt=''/>
-
+        <div className="container">
+            <div className="imageContainer" >
+                <img
+                    src={image}
+                    alt=''
+                />
             </div>
-            <div className = "card-title">
-                <h3>{title}</h3>
+            <div className="title">
+                <h3 className="cardH3">{title}</h3>
             </div>
-            <div className = "card-body">
-                <p>{body}</p>
-            </div>
-            <div className ="btn">
+            <div className="moreDetails">
                <button>
-                   <a>
-                       Read more
+                   <a className="moreText">
+                        {moreText}
                    </a>
                </button>
             </div>
-            
         </div>
     )
-}
+};
 
-export default MediumCard
+export default MediumCard;
 
 
 

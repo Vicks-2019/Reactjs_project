@@ -1,0 +1,51 @@
+.imageContainer { 
+    top: 0;
+    left: 0;
+    height: 300px;
+    width: 100%;
+    background: #00000077;
+    opacity: 0;
+    transition: .4s;
+    z-index: 0;
+}
+
+.image {
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+    z-index: 0;
+}
+
+.title {
+    text-align: center;
+}
+
+.cardH3 {
+    color: #747474;
+    text-transform: none;
+    min-height: 42px;
+    text-align: left;
+    padding: 0 15px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.moreDetails {
+    border-top: solid 1px #dfdfdf87;
+    padding: 15px;
+    text-align: left;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.moreText {
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    outline: 0!important;
+    color: #337ab7;
+}

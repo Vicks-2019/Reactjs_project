@@ -1,5 +1,45 @@
-.serv {
-  margin-top: 20px;
+.mainContainer {
+  width: 1200px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 14px;
+  font-family: 'Open Sans',serif;
+}
+
+.titleContainer {
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  font-size: 14px;
+  font-family: 'Open Sans',serif;
+  line-height: 1.42857143;
+}
+
+.servicesH3 {
+  font-weight: 300;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  padding-bottom: 30px;
+  margin-bottom: 0;
+  color: #666;
+  font-size: 30px;
+  position: relative;
+  margin-top: 0;
+  text-transform: capitalize;
+  font-family: 'Open Sans',sans-serif;
+}
+
+.cardsContainer {
   display: flex;
-  flex-direction: row;
+  width: 100%;
+  margin: 0 auto;
+  clear: both;
+  list-style: none;
+  padding: 0;
+  float: left;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 1;
 }

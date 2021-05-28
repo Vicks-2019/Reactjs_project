@@ -40,7 +40,12 @@
   "home": {
     "title": "Meilleur Services",
     "description": "OUR SERVICES",
-    "description1": "MAKE AN ENQUIRY",
+    "description1": "MAKE AN ENQUIRY"
+  },
+  "ourStory": {
+    "title": "Our Story",
+    "description": "A Brief History of About Us We are a team of highly motivated and skilled professionals. Meilleur Services has built competencies on a wide spectrum of Strategic Facility Management services that are connected and correspond to the objectives of the businesses it supports and works with. Whether it's your office, home or commercial space, we offer customized solutions that combine technology,",
+    "image": "https://fpimages.withfloats.com/tile/5da8250cd2865d000151ecd3.jpg"
   },
   "footer": {
     "sectionTitle": "Get in Touch",
@@ -66,42 +71,11 @@
   "gallery": {
     "cards": [
       { "title": "title", "image": "img1.jpeg" },
-      { "title": "title", "image": "img2.jpeg" },
-      { "title": "title", "image": "image3.jpeg" },
-      { "title": "title", "image": "img4.jpeg" },
-      { "title": "title", "image": "img5.jpeg" },
-      { "title": "title", "image": "img6.jpeg" },
-      { "title": "title", "image": "img7.jpeg" },
-      { "title": "title", "image": "img8.jpeg" },
-      { "title": "title", "image": "img9.jpeg" },
-      { "title": "title", "image": "img10.jpeg" },
-      { "title": "title", "image": "img11.jpeg" },
-      { "title": "title", "image": "img12.jpeg" },
-      { "title": "title", "image": "img13.jpeg" },
-      { "title": "title", "image": "img14.jpeg" },
-      { "title": "title", "image": "img15.jpeg" },
-      { "title": "title", "image": "img16.jpeg" },
-      { "title": "title", "image": "img17.jpeg" },
-      { "title": "title", "image": "img18.jpeg" },
-      { "title": "title", "image": "img19.jpeg" },
-      { "title": "title", "image": "img20.jpeg" },
-      { "title": "title", "image": "img21.jpeg" },
-      { "title": "title", "image": "img22.jpeg" },
-      { "title": "title", "image": "img23.jpeg" },
-      { "title": "title", "image": "img24.jpeg" },
-     
-
+      { "title": "title", "image": "img24.jpeg" }
     ]
   },
   "more": {
     "card": [
-      { "title": "title", "day": "days", "description": "desc" },
-      { "title": "title", "day": "days", "description": "desc" },
-      { "title": "title", "day": "days", "description": "desc" },
-      { "title": "title", "day": "days", "description": "desc" },
-      { "title": "title", "day": "days", "description": "desc" },
-      { "title": "title", "day": "days", "description": "desc" },
-      { "title": "title", "day": "days", "description": "desc" },
       { "title": "title", "day": "days", "description": "desc" },
       { "title": "title", "day": "days", "description": "desc" }
     ]
@@ -120,114 +94,6 @@
         "card": "image",
         "description": "desc",
         "day": 30
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
-      },
-      {
-        "title": "title",
-        "card": "image",
-        "description": "desc",
-        "day": "days"
       }
     ]
   },
@@ -241,10 +107,22 @@
     "sectionTitle1": [{ "title": "title", "description": "desc" }]
   },
   "services": {
-    "card": [
-      { "title": "title", "description": "desc" },
-      { "title": "title", "description": "desc" },
-      { "title": "title", "description": "desc" }
+    "title": "Our Services",
+    "detailsText": "Details",
+    "knowMoreText": "Know More",
+    "cards": [
+      { 
+        "title": "Housekeeping Services", 
+        "image": "https://productimages.withfloats.com/tile/5ddea00db8b04f00019c37c3.jpg" 
+      },
+      { 
+        "title": "Facility Management Services", 
+        "image": "https://productimages.withfloats.com/tile/5dde9f35fc071d00019adb43.jpg"
+       },
+      { 
+        "title": "Mechanized Deep Cleaning Services", 
+        "image": "https://productimages.withfloats.com/tile/5dde9f625c382300019c64ae.jpg" 
+      }
     ]
   }
 }
